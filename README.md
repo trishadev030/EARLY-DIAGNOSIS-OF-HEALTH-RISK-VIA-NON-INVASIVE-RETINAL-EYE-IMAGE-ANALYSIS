@@ -90,10 +90,10 @@ Such behavior reflects realistic model confidence distribution rather than a def
 
 ## Team
 
-- Manvi Akhil Shetty (1NT22CS112)  
-- Rakshitha R (1NT22CS157)  
-- Rayna Vallachira Geo (1NT22CS160)  
-- Trisha Dev (1NT22CS207)  
+- Manvi Akhil Shetty 
+- Rakshitha R  
+- Rayna Vallachira Geo
+- Trisha Dev
 
 ## Guide
 
