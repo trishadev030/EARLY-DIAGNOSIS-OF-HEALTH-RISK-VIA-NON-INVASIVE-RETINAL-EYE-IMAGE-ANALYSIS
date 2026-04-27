@@ -56,9 +56,23 @@ Dataset is not included due to size and privacy.
 - NumPy, Pandas
 - Streamlit
 
+## Screenshots
+<img width="688" height="259" alt="Screenshot 2026-04-27 120833" src="https://github.com/user-attachments/assets/d4891813-c876-4cf7-8bf9-20417015e998" />
+<img width="1365" height="732" alt="Screenshot 2026-02-23 131851" src="https://github.com/user-attachments/assets/8b26ad32-8d1d-4321-b274-e85c5f65b538" />
+<img width="1365" height="545" alt="Screenshot 2026-02-23 131900" src="https://github.com/user-attachments/assets/61e623c8-0c6d-488c-9eb3-00ba3a26cc82" />
+
+
 ## Project Status
 
-This project requires GPU for training and is not fully runnable in the current environment.
+This project requires GPU for training and is not fully runnable in the current environment as it needs access to GPU enabled systems.
+
+## Observations
+
+Although the model achieves high accuracy (~96.88%), predictions are probabilistic in nature. 
+
+In some cases, the model may assign small probabilities to multiple classes (e.g., slight probability for "normal" along with a disease class). This occurs due to similarities in retinal features across conditions and inherent uncertainty in medical image classification.
+
+Such behavior reflects realistic model confidence distribution rather than a definitive error.
 
 ## Future Work
 
@@ -66,3 +80,5 @@ This project requires GPU for training and is not fully runnable in the current 
 - Improve model accuracy
 - Deploy as mobile/web app
 - Integrate clinical decision support systems
+
+*The model outputs probability scores for all classes, enabling better interpretability and supporting clinical decision-making rather than providing rigid classifications.*
