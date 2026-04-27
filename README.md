@@ -87,3 +87,17 @@ Such behavior reflects realistic model confidence distribution rather than a def
 - Integrate clinical decision support systems
 
 *The model outputs probability scores for all classes, enabling better interpretability and supporting clinical decision-making rather than providing rigid classifications.*
+
+## Team
+
+- Manvi Akhil Shetty (1NT22CS112)  
+- Rakshitha R (1NT22CS157)  
+- Rayna Vallachira Geo (1NT22CS160)  
+- Trisha Dev (1NT22CS207)  
+
+## Guide
+
+Ms. Shruthi Shetty J  
+Assistant Professor  
+Department of Computer Science and Engineering  
+Nitte Meenakshi Institute of Technology, Bengaluru
