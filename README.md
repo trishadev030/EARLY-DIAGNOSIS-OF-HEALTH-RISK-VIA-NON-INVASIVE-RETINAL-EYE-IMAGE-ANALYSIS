@@ -51,14 +51,19 @@ Dataset is not included due to size and privacy.
 
 ## Tech Stack
 
-- Python
-- TensorFlow / PyTorch
-- NumPy, Pandas
-- Streamlit
+- Python  
+- TensorFlow / PyTorch  
+- NumPy, Pandas  
+- Scikit-learn  
+- Matplotlib  
+- Streamlit  
+- Jupyter Notebook  
 
 ## Screenshots
 <img width="688" height="259" alt="Screenshot 2026-04-27 120833" src="https://github.com/user-attachments/assets/d4891813-c876-4cf7-8bf9-20417015e998" />
+
 <img width="1365" height="732" alt="Screenshot 2026-02-23 131851" src="https://github.com/user-attachments/assets/8b26ad32-8d1d-4321-b274-e85c5f65b538" />
+
 <img width="1365" height="545" alt="Screenshot 2026-02-23 131900" src="https://github.com/user-attachments/assets/61e623c8-0c6d-488c-9eb3-00ba3a26cc82" />
 
 
